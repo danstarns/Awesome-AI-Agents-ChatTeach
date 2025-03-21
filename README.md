@@ -1,15 +1,54 @@
-# Open-Source AI Agents 🚀
+# 🚀 Open-Source AI Agents
 
-This repository contains a curated list of the latest and trending open-source AI agent projects from GitHub.
+![AI Agents Banner](images/ai-agent-example1.png)
 
-## What's Included:
-- Regular updates on latest AI agents
-- Links to projects, demos, and tutorials
-- Easy-to-navigate categorized lists
+📬 **[Subscribe to Our Newsletter](#your-newsletter-link)** – Stay updated weekly with the latest AI-Agent projects and trends!
 
-📌 **[View AI Agent Projects →](AGENTS.md)**
+Welcome to the ultimate collection of the latest open-source AI Agent projects. Here you'll find regularly updated resources, project links, demos, and tutorials on trending AI agents across GitHub.
 
-## Contributing
-Feel free to open an issue or submit a PR! Check [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+## 📌 Quick Navigation
 
-⭐ **Star this repo if you find it useful!**
+- 🔍 **[AI Agent Projects (AGENTS.md)](AGENTS.md)** – Explore the latest AI agents.
+- 🤝 **[Contributing](CONTRIBUTING.md)** – Guidelines to contribute your favorite projects.
+
+## 📬 Newsletter – Stay Updated!
+
+Never miss out on exciting developments in AI-Agent projects! Subscribe to our weekly newsletter and get curated AI-Agent updates delivered directly to your inbox.
+
+👉 [**Subscribe Now**](#your-newsletter-link)
+
+**Benefits of subscribing:**
+- Weekly roundup of newest AI-Agent releases
+- Exclusive insights and tutorials
+- Early access to trending projects
+
+## 📂 Repository Structure
+
+
+## 📃 AGENTS.md
+
+The `AGENTS.md` file contains a regularly updated and categorized list of open-source AI agent projects:
+
+- Project Name & Link
+- Brief Description
+- Demo Links (if available)
+
+👉 **[Explore AI Agent Projects →](AGENTS.md)**
+
+## 🤝 Contribute to Our Repository
+
+We warmly welcome contributions! Help grow this resource by:
+
+- Adding new AI-Agent projects
+- Updating existing information
+- Reporting issues or outdated links
+
+Check our **[Contribution Guidelines](CONTRIBUTING.md)** to get started.
+
+## ⭐ Support Us
+
+If you find this repository helpful, please consider starring ⭐ it to help others find it as well!
+
+---
+
+**Stay Ahead in AI—Subscribe Today!**
