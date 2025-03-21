@@ -22,6 +22,7 @@ Never miss out on exciting developments in AI-Agent projects! Subscribe to our w
 
 ## 📂 Repository Structure
 
+```bash
 open-source-ai-agents/
 ├── README.md
 ├── AGENTS.md
@@ -29,6 +30,7 @@ open-source-ai-agents/
 │   ├── ai-agent-example1.png
 │   └── ai-agent-example2.png
 └── CONTRIBUTING.md
+```
 
 
 ## 📃 AGENTS.md
