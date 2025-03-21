@@ -1,7 +1,5 @@
 # 🚀 Open-Source AI Agents
 
-![AI Agents Banner](images/ai-agent-example1.png)
-
 📬 **[Subscribe to Our Newsletter](#your-newsletter-link)** – Stay updated weekly with the latest AI-Agent projects and trends!
 
 Welcome to the ultimate collection of the latest open-source AI Agent projects. Here you'll find regularly updated resources, project links, demos, and tutorials on trending AI agents across GitHub.
@@ -23,6 +21,14 @@ Never miss out on exciting developments in AI-Agent projects! Subscribe to our w
 - Early access to trending projects
 
 ## 📂 Repository Structure
+
+open-source-ai-agents/ 
+├── README.md 
+├── AGENTS.md 
+├── images/ 
+│   ├── ai-agent-example1.png 
+│   └── ai-agent-example2.png 
+└── CONTRIBUTING.md
 
 
 ## 📃 AGENTS.md
