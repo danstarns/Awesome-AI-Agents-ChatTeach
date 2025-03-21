@@ -22,12 +22,12 @@ Never miss out on exciting developments in AI-Agent projects! Subscribe to our w
 
 ## 📂 Repository Structure
 
-open-source-ai-agents/ 
-├── README.md 
-├── AGENTS.md 
-├── images/ 
-│   ├── ai-agent-example1.png 
-│   └── ai-agent-example2.png 
+open-source-ai-agents/
+├── README.md
+├── AGENTS.md
+├── images/
+│   ├── ai-agent-example1.png
+│   └── ai-agent-example2.png
 └── CONTRIBUTING.md
 
 
