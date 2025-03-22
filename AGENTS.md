@@ -55,21 +55,9 @@ Agno is a lightning-fast, model-agnostic framework for building multimodal AI ag
 
 ---
 
-### **Realtime API Agents**  
-Realtime API Agents demonstrates advanced multi-agent interactions using OpenAI’s Realtime API, enabling dynamic voice application workflows through agent handoffs and real-time decision making.  
-[GitHub Link](https://github.com/openai/openai-realtime-agents)
-
----
-
 ### **Executive AI Assistant**  
 Executive AI Assistant automates executive tasks with intelligent, autonomous workflows, managing emails, scheduling, and more with minimal human intervention.  
 [GitHub Link](https://github.com/langchain-ai/executive-ai-assistant)
-
----
-
-### **CopilotKit**  
-CopilotKit empowers developers to build coding assistants that enhance productivity by automating code generation, debugging, and project management within your IDE.  
-[GitHub Link](https://github.com/CopilotKit/CopilotKit)
 
 ---
 
@@ -154,12 +142,6 @@ Agent Chat UI offers an intuitive interface for interacting with multiple AI age
 ### **Realtime API Agents**  
 Realtime API Agents is an innovative project built on OpenAI’s Realtime API. It demonstrates advanced multi-agent patterns for interactive voice and conversational applications by orchestrating several specialized agents. With dynamic handoffs and real‐time decision making, this project paves the way for building robust, autonomous voice applications.  
 [GitHub Link](https://github.com/openai/openai-realtime-agents)
-
----
-
-### **Executive AI Assistant**  
-Executive AI Assistant is designed to automate executive tasks through intelligent, autonomous workflows. This agent leverages state‐of‐the‐art LLMs to manage emails, schedule meetings, and perform complex administrative tasks—making it an indispensable tool for streamlining professional workflows.  
-[GitHub Link](https://github.com/langchain-ai/executive-ai-assistant)
 
 ---
 
