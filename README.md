@@ -1,6 +1,6 @@
 # 🚀 Open-Source AI Agents
 
-📬 **[Subscribe to Our Newsletter]([#your-newsletter-link](https://manuagi.beehiiv.com/subscribe))** – Stay updated weekly with the latest AI-Agent projects and trends!
+📬 **[Subscribe to Our Newsletter](https://manuagi.beehiiv.com/subscribe)** – Stay updated weekly with the latest AI-Agent projects and trends!
 
 Welcome to the ultimate collection of the latest open-source AI Agent projects. Here you'll find regularly updated resources, project links, demos, and tutorials on trending AI agents across GitHub.
 
@@ -8,13 +8,13 @@ Welcome to the ultimate collection of the latest open-source AI Agent projects. 
 
 - 🔍 **[AI Agent Projects (AGENTS.md)](AGENTS.md)** – Explore the latest AI agents.
 - 🤝 **[Contributing](CONTRIBUTING.md)** – Guidelines to contribute your favorite projects.
-- 📬 **[Newsletter]([#your-newsletter-link](https://manuagi.beehiiv.com/subscribe))** – Stay Updated!
+- 📬 **[Newsletter](https://manuagi.beehiiv.com/subscribe)** – Stay Updated!
 
 ## 📬 Newsletter – Stay Updated!
 
 Never miss out on exciting developments in AI-Agent projects! Subscribe to our weekly newsletter and get curated AI-Agent updates delivered directly to your inbox.
 
-👉 [**Subscribe Now**](#your-newsletter-link)
+👉 [**Subscribe Now**](https://manuagi.beehiiv.com/subscribe)
 
 **Benefits of subscribing:**
 - Weekly roundup of newest AI-Agent releases
