@@ -1,26 +1,23 @@
-# 🚀 Open-Source AI Agents
-
-📬 **[Subscribe to Our Newsletter](#your-newsletter-link)** – Stay updated weekly with the latest AI-Agent projects and trends!
+🚀 Open-Source AI Agents
+📬 Subscribe to Our Newsletter – Stay updated weekly with the latest AI-Agent projects and trends!
 
 Welcome to the ultimate collection of the latest open-source AI Agent projects. Here you'll find regularly updated resources, project links, demos, and tutorials on trending AI agents across GitHub.
 
-## 📌 Quick Navigation
-
-- 🔍 **[AI Agent Projects (AGENTS.md)](AGENTS.md)** – Explore the latest AI agents.
-- 🤝 **[Contributing](CONTRIBUTING.md)** – Guidelines to contribute your favorite projects.
-
-## 📬 Newsletter – Stay Updated!
-
+📌 Quick Navigation  
+🔍 AI Agent Projects (AGENTS.md) – Explore the latest AI agents.  
+🤝 Contributing – Guidelines to contribute your favorite projects.  
+📬 Newsletter – Stay Updated!  
 Never miss out on exciting developments in AI-Agent projects! Subscribe to our weekly newsletter and get curated AI-Agent updates delivered directly to your inbox.
 
-👉 [**Subscribe Now**](#your-newsletter-link)
+👉 [Subscribe Now](https://manuagi.beehiiv.com/subscribe)
 
 **Benefits of subscribing:**
-- Weekly roundup of newest AI-Agent releases
-- Exclusive insights and tutorials
+
+- Weekly roundup of newest AI-Agent releases  
+- Exclusive insights and tutorials  
 - Early access to trending projects
 
-## 📂 Repository Structure
+📂 **Repository Structure**
 
 ```bash
 open-source-ai-agents/
@@ -33,30 +30,26 @@ open-source-ai-agents/
 ```
 
 
-## 📃 AGENTS.md
 
-The `AGENTS.md` file contains a regularly updated and categorized list of open-source AI agent projects:
+📃 **AGENTS.md**  
+The AGENTS.md file contains a regularly updated and categorized list of open-source AI agent projects:
 
-- Project Name & Link
-- Brief Description
+- Project Name & Link  
+- Brief Description  
 - Demo Links (if available)
 
-👉 **[Explore AI Agent Projects →](AGENTS.md)**
+👉 [Explore AI Agent Projects →](./AGENTS.md)
 
-## 🤝 Contribute to Our Repository
-
+🤝 **Contribute to Our Repository**  
 We warmly welcome contributions! Help grow this resource by:
 
-- Adding new AI-Agent projects
-- Updating existing information
+- Adding new AI-Agent projects  
+- Updating existing information  
 - Reporting issues or outdated links
 
-Check our **[Contribution Guidelines](CONTRIBUTING.md)** to get started.
+Check our [Contribution Guidelines](./CONTRIBUTING.md) to get started.
 
-## ⭐ Support Us
-
+⭐ **Support Us**  
 If you find this repository helpful, please consider starring ⭐ it to help others find it as well!
 
----
-
-**Stay Ahead in AI—Subscribe Today!**
+Stay Ahead in AI—Subscribe Today!
