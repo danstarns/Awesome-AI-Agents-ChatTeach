@@ -1,6 +1,6 @@
 # 🚀 Open-Source AI Agents
 
-[![Subscribe](images/your-subscribe-image.png)](https://manuagi.beehiiv.com/subscribe)
+[![Subscribe](images/manuagi.png)](https://manuagi.beehiiv.com/subscribe)
 
 
 📬 **[Subscribe to Our Newsletter](https://manuagi.beehiiv.com/subscribe)** – Stay updated weekly with the latest AI-Agent projects and trends!
