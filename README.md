@@ -1,6 +1,6 @@
 # 🚀 Open-Source AI Agents
 
-[![Subscribe]([manuagi.png](https://github.com/ChatTeach/Awesome-AI-Agents/blob/main/manuagi.PNG))](https://manuagi.beehiiv.com/subscribe)
+[![Subscribe](https://github.com/ChatTeach/Awesome-AI-Agents/blob/main/manuagi.PNG)(https://manuagi.beehiiv.com/subscribe)
 
 
 📬 **[Subscribe to Our Newsletter](https://manuagi.beehiiv.com/subscribe)** – Stay updated weekly with the latest AI-Agent projects and trends!
