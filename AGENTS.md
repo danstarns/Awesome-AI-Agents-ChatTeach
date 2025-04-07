@@ -4,6 +4,12 @@ Stay up-to-date with the latest in AI, AGI, and AI-agent projects by subscribing
 
 This file is updated weekly with the newest AI-agent projects from the open-source community.
 
+## Weekly Update - 2025-04-??
+
+### **Giselle**  
+Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. Using a highly intuitive node-based interface, Giselle enables you to design and deploy powerful AI Agents by seamlessly integrating multiple LLMs and data sources.  
+[GitHub Link](https://github.com/giselles-ai/giselle)
+
 ## Weekly Update - 2025-03-22
 
 
