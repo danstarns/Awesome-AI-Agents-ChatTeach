@@ -4,7 +4,7 @@ Stay up-to-date with the latest in AI, AGI, and AI-agent projects by subscribing
 
 This file is updated weekly with the newest AI-agent projects from the open-source community.
 
-
+## Weekly Update - 2025-04-08
 
 ---
 
