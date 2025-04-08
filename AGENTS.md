@@ -6,8 +6,10 @@ This file is updated weekly with the newest AI-agent projects from the open-sour
 
 ## Weekly Update - 2025-04-08
 
+---
 
-**Giselle** – Giselle is an open-source AI designed for agentic workflows, enabling seamless human-AI collaboration to automate complex tasks and streamline operations.  
+### **Giselle**  
+Giselle is an open-source AI designed for agentic workflows, enabling seamless human-AI collaboration to automate complex tasks and streamline operations.  
 [GitHub Link](https://github.com/giselles-ai/giselle)
 
 ---
